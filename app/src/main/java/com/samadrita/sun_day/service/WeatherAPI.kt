@@ -6,7 +6,7 @@ import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-//https://api.openweathermap.org/data/2.5/weather?q=jamshedpur&appid=0cce8507e62707a48e201a7436eef300
+
 
 interface WeatherAPI {
 
